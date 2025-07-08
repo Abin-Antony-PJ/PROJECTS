@@ -6,7 +6,7 @@ This repository showcases Power BI case studies using Kaggle datasets, including
 
 ## 1. BMW Global Sales Performance (2019–2023)
 
-- **Dashboard** : [BMW GLOBAL SALES PERFORMANCE DASHBOARD](./BMW%20GLOBAL%20SALES%20PERFORMANCE%20DASHBOARD.pbix) 
+- **Dashboard** : [BMW GLOBAL SALES PERFORMANCE DASHBOARD](./BMW/BMW%20GLOBAL%20SALES%20PERFORMANCE%20DASHBOARD.pbix) 
 - **Dashboard Image** : [BMW GLOBAL SALES PERFORMANCE DASHBOARD IMAGE](./BMW/BMW%20Global%20Sales%20Performance.png)
 - Report : BMW GLOBAL SALES PERFORMANCE Summary
 - **Focus** : Sales performance across global regions, year-wise trends, visual insights
@@ -16,8 +16,8 @@ This repository showcases Power BI case studies using Kaggle datasets, including
 
 ## 2. Tesla Marketing Insights
 
-- **Dashboard** : [TESLA MARKETING INSIGHTS DASHBOARD](./TESLA%20MARKETING%20INSGHTS.pbix)
-- **Dashboard Image** : [TESLA MARKETING INSIGHTS DASHBOARD IMAGE](./TESLA%20Market%20Insight.png)
+- **Dashboard** : [TESLA MARKETING INSIGHTS DASHBOARD](./TESLA/TESLA%20MARKETING%20INSGHTS.pbix)
+- **Dashboard Image** : [TESLA MARKETING INSIGHTS DASHBOARD IMAGE](./TESLA/TESLA%20Market%20Insight.png)
 - **Focus** : Model-wise insights, Visual engagement
 - Tools: Power BI, Excel, PowerPoint
   
@@ -25,8 +25,8 @@ This repository showcases Power BI case studies using Kaggle datasets, including
 
 ## 3. Tracking Global Unicorn Insights by Industry and Valuation
 
-- **Dashboard** : [TRACKING GLOBAL UNICORN INSIGHTS DASHBOARD](./Tracking%20Global%20Unicorns%20-%20Insights%20by%20Industry%20and%20Valuation.pbix)
-- **Dashboard Image** : [TRACKING GLOBAL UNICORN DASHBOARD IMAGE](./Tracking%20Global%20Unicorns.png)
+- **Dashboard** : [TRACKING GLOBAL UNICORN INSIGHTS DASHBOARD](./UNICORNS/Tracking%20Global%20Unicorns%20-%20Insights%20by%20Industry%20and%20Valuation.pbix)
+- **Dashboard Image** : [TRACKING GLOBAL UNICORN DASHBOARD IMAGE](./UNICORNS/Tracking%20Global%20Unicorns.png)
 - **Focus**: Global-wise insights, Visual engagement
 - Tools: Power BI, Excel, PowerPoint
 
@@ -34,8 +34,8 @@ This repository showcases Power BI case studies using Kaggle datasets, including
 
 ## 4. adidas Sales Performance (2020-2021)
 
-- **Dashboard** : [ADIDAS SALES PERFORMANCE DASHBOARD](./adidas%20Sales%20Performance.pbix) 
-- **Dashboard Image** : [ADIDAS SALES PERFORMANCE DASHBOARD IMAGE](./adidas%20Sales%20Performance%20Dashboard.png)
+- **Dashboard** : [ADIDAS SALES PERFORMANCE DASHBOARD](./adidas/adidas%20Sales%20Performance.pbix) 
+- **Dashboard Image** : [ADIDAS SALES PERFORMANCE DASHBOARD IMAGE](./adidas/adidas%20Sales%20Performance%20Dashboard.png)
 - **Focus**: Regional Sales, Profit by Sales Method, profitability patterns
 - Tools: Power BI, Excel, PowerPoint
 
