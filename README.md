@@ -32,7 +32,7 @@ This repository showcases Power BI case studies using Kaggle datasets, including
 
 ---
 
-## 4. Adidas Sales Performance (2020-2021)
+## 4. adidas Sales Performance (2020-2021)
 
 - **Dashboard** : [ADIDAS SALES PERFORMANCE DASHBOARD](./adidas%20Sales%20Performance.pbix) 
 - **Dashboard Image** : [ADIDAS SALES PERFORMANCE DASHBOARD IMAGE](./adidas%20Sales%20Performance%20Dashboard.png)
