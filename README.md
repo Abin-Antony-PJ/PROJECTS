@@ -7,7 +7,7 @@ This repository showcases Power BI case studies using Kaggle datasets, including
 ## 1. BMW Global Sales Performance (2019–2023)
 
 - **Dashboard** : [BMW GLOBAL SALES PERFORMANCE DASHBOARD](./BMW%20GLOBAL%20SALES%20PERFORMANCE%20DASHBOARD.pbix) 
-- **Dashboard Image** : [BMW GLOBAL SALES PERFORMANCE DASHBOARD IMAGE](./BMW%20Global%20Sales%20Performance.png)
+- **Dashboard Image** : [BMW GLOBAL SALES PERFORMANCE DASHBOARD IMAGE](./BMW/BMW%20Global%20Sales%20Performance.png)
 - Report : BMW GLOBAL SALES PERFORMANCE Summary
 - **Focus** : Sales performance across global regions, year-wise trends, visual insights
 - Tools: Power BI, Excel, PowerPoint
