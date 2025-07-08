@@ -81,10 +81,7 @@ I'm **Abin Antony P J**, a business graduate with a data science background, foc
 ---
 ## License
 
-This project is licensed under the ****.  
-You are free to learn from and build upon the code with proper attribution. Commercial use or redistribution of project files (including presentation materials) is not permitted without permission.
-
-> See [license](LICENSE) file for full terms.
+This project is protected under a custom proprietary license. See [LICENSE](./LICENSE.txt) for details.
 
 ---
 
