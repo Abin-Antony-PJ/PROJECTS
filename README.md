@@ -38,7 +38,7 @@ This repository showcases Power BI case studies using Kaggle datasets, including
 
 - **Dashboard** : [ADIDAS SALES PERFORMANCE DASHBOARD](./adidas/adidas%20Sales%20Performance.pbix) 
 - **Dashboard Image** : [ADIDAS SALES PERFORMANCE DASHBOARD IMAGE](./adidas/adidas%20Sales%20Performance%20Dashboard.png)
-- **Insights Report** : [DASHBOARD INSIGHTS REPORT](.adidas/Insights%20Report.pdf)
+- **Insights Report** : [DASHBOARD INSIGHTS REPORT](./adidas/Insights%20Report.pdf)
 - **Focus**: Regional Sales, Profit by Sales Method, profitability patterns
 - Tools: Power BI, Excel
 
