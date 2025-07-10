@@ -8,7 +8,7 @@ This repository showcases Power BI case studies using Kaggle datasets, including
 
 - **Dashboard** : [BMW GLOBAL SALES PERFORMANCE DASHBOARD](./BMW/BMW%20GLOBAL%20SALES%20PERFORMANCE%20DASHBOARD.pbix) 
 - **Dashboard Image** : [BMW GLOBAL SALES PERFORMANCE DASHBOARD IMAGE](./BMW/BMW%20Global%20Sales%20Performance.png)
-- **Insights Report** : [DASHBOARD INSIGHTS REPORT]
+- **Insights Report** : [DASHBOARD INSIGHTS REPORT](./BMW/Insights%20Report.pdf)
 - **Focus** : Sales performance across global regions, year-wise trends, visual insights
 - Tools: Power BI, Excel
 
@@ -18,7 +18,7 @@ This repository showcases Power BI case studies using Kaggle datasets, including
 
 - **Dashboard** : [TESLA MARKETING INSIGHTS DASHBOARD](./TESLA/TESLA%20MARKETING%20INSGHTS.pbix)
 - **Dashboard Image** : [TESLA MARKETING INSIGHTS DASHBOARD IMAGE](./TESLA/TESLA%20Market%20Insight.png)
-- **Insights Report** : [DASHBOARD INSIGHTS REPORT]
+- **Insights Report** : [DASHBOARD INSIGHTS REPORT](./TESLA/Insights%20Report.pdf)
 - **Focus** : Model-wise insights, Visual engagement
 - Tools: Power BI, Excel
   
