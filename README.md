@@ -52,7 +52,7 @@ This project uses the publicly available dataset from Kaggle:
 
 ## Usage Notice
 
-This dashboard and presentation are part of my personal data visualization portfolio.  
+This dashboard and other files related to dashboard are part of my personal data visualization portfolio.  
 **Do not copy, modify, redistribute, or reuse** these assets without permission.
 
 © 2025 Abin Antony P J. All rights reserved.
