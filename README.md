@@ -24,17 +24,7 @@ This repository showcases Power BI case studies using Kaggle datasets, including
   
 ---
 
-## 3. Tracking Global Unicorn Insights by Industry and Valuation
-
-- **Dashboard** : [TRACKING GLOBAL UNICORN INSIGHTS DASHBOARD](./UNICORNS/Tracking%20Global%20Unicorns%20-%20Insights%20by%20Industry%20and%20Valuation.pbix)
-- **Dashboard Image** : [TRACKING GLOBAL UNICORN DASHBOARD IMAGE](./UNICORNS/Tracking%20Global%20Unicorns.png)
-- **Insights Report** : [DASHBOARD INSIGHTS REPORT]
-- **Focus**: Global-wise insights, Visual engagement
-- Tools: Power BI, Excel
-
----
-
-## 4. adidas Sales Performance (2020-2021)
+## 3. adidas Sales Performance (2020-2021)
 
 - **Dashboard** : [ADIDAS SALES PERFORMANCE DASHBOARD](./adidas/adidas%20Sales%20Performance.pbix) 
 - **Dashboard Image** : [ADIDAS SALES PERFORMANCE DASHBOARD IMAGE](./adidas/adidas%20Sales%20Performance%20Dashboard.png)
